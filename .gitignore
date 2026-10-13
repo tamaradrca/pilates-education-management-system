@@ -1,0 +1,12 @@
+**/build/
+**/dist/
+**/nbproject/private/
+**/nbproject/project.fragment
+
+# Ignoriše kompajlirane klase i jar fajlove
+*.class
+*.jar
+
+# OS sistemski fajlovi
+.DS_Store
+Thumbs.db
