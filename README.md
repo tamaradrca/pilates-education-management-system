@@ -19,4 +19,4 @@ sa serverom.
 ## 📄 Dokumentacija
 
 * 📘 [Pogledaj kompletnu dokumentaciju sistema (100 str. PDF)] 
-https://drive.google.com/drive/folders/1xPOlo0-DohSRU-qsxc7cKqjsJw6tbvJf
+https://drive.google.com/drive/folders/1xPOIo0-DohSRU-qsxc7cKqjsJw6tbvJf?usp=share_link
